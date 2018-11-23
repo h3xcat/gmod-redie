@@ -1,3 +1,7 @@
+## ⚠️Warning⚠️
+
+This is one of my old codes, and some parts most likely outdated. I have no interest or time to actually go over the code. If someone wants to use this, feel free to fix it.
+
 # redie-gmod
 ![](https://i.imgur.com/WZPV4cW.png)
 
